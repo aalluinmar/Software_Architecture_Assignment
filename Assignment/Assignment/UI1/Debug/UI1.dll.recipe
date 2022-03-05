@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\bhava\OneDrive\Desktop\Courses\SoftwareArchitecture\Assignment\Assignment\Debug\Core3.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\bhava\OneDrive\Desktop\Courses\SoftwareArchitecture\Assignment\Assignment\Debug\Core1.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\bhava\OneDrive\Desktop\Courses\SoftwareArchitecture\Assignment\Assignment\Debug\Core2.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\bhava\OneDrive\Desktop\Courses\SoftwareArchitecture\Assignment\Assignment\Debug\DLL1.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\bhava\OneDrive\Desktop\Courses\SoftwareArchitecture\Assignment\Assignment\Debug\UI1.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,4 @@
+﻿  DLL2.cpp
+C:\Users\pa1ku\Downloads\Assignment\Assignment\Assignment\DLL2\DLL2.cpp(9,10): fatal error C1083: Cannot open include file: 'boost/locale.hpp': No such file or directory
+  dllmain.cpp
+  Generating Code...

@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment/Assignment.cpp">
+    <Files>
+      <File FileName="Assignment/Assignment.cpp" Line="27" Column="30" />
+      <File FileName="BatchLibrary/BatchLibrary.cpp" Line="15" Column="2" />
+      <File FileName="BatchLibrary/BatchLibrary.h" Line="16" Column="22" />
+      <File FileName="BatchLibrary/dllmain.cpp" Line="13" Column="28" />
+      <File FileName="BatchMode/BatchMode.cpp" Line="8" Column="2" />
+      <File FileName="Core1/Core1.cpp" Line="29" Column="100" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment" expanded="True">
+            <Node name="Assignment" expanded="True" selected="True" />
+            <Node name="BatchLibrary" expanded="True" />
+            <Node name="BatchMode" expanded="True" />
+            <Node name="Core1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
